@@ -1,4 +1,4 @@
-ame: eiu-pchem-env
+name: eiu-pchem-env
 channels:
   - conda-forge
   - veloxchem
@@ -16,3 +16,6 @@ dependencies:
   - plotly
   - py3Dmol
   - ase
+  - jupyterlab
+  - ipywidgets
+  - nodejs
