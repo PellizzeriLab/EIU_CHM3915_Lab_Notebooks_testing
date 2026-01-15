@@ -29,7 +29,7 @@ matplotlib==3.10.8
     #   seaborn
 mpi4py==4.1.1
     # via veloxchem
-numpy==2.4.1
+numpy>=2.2
     # via
     #   -r requirements.in
     #   ase
