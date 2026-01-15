@@ -4,7 +4,6 @@
 #
 #    pip-compile --output-file=requirements.txt requirements.in
 #
-python>=3.11
 ase==3.27.0
     # via -r requirements.in
 blocked-matrix-utils==1.0.9
