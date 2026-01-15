@@ -68,7 +68,7 @@ rdkit==2025.9.3
     # via -r requirements.in
 scikit-learn>=1.7
     # via -r requirements.in
-scipy==1.17.0
+scipy>=1.15
     # via
     #   -r requirements.in
     #   ase
