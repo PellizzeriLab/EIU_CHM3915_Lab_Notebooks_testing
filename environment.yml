@@ -21,3 +21,8 @@ dependencies:
   - nodejs
   - nbgitpuller
   - ipympl
+  - ipywidgets
+  - xtb-python
+  - mpi4py
+  - pip:
+    - uncertainties
